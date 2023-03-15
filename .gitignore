@@ -11,3 +11,4 @@
 !*.log
 !*.err
 !batch*.output
+!*.pdf
