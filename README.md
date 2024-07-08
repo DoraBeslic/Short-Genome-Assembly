@@ -3,7 +3,7 @@
 **Author:** Isidora Beslic  
 **Date created:** March 17, 2023  
 **Date started:** March 14, 2023  
-**Calling on the command line:** sbatch sbatch_assembleGenome.sh  
+**Calling on the command line:** `sbatch sbatch_assembleGenome.sh`  
 
 ## Methods:
 ### getNGS.sh  
